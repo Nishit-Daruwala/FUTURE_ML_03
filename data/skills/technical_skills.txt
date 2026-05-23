@@ -1,0 +1,249 @@
+python
+java
+javascript
+typescript
+c++
+c#
+sql
+nosql
+html
+css
+react
+angular
+vue.js
+node.js
+express.js
+django
+flask
+spring boot
+ruby on rails
+php
+laravel
+swift
+kotlin
+go
+rust
+scala
+r
+matlab
+perl
+bash
+shell scripting
+powershell
+machine learning
+deep learning
+natural language processing
+nlp
+computer vision
+artificial intelligence
+neural networks
+tensorflow
+pytorch
+keras
+scikit-learn
+opencv
+data science
+data analysis
+data engineering
+data visualization
+big data
+hadoop
+spark
+apache spark
+apache kafka
+apache airflow
+mapreduce
+hive
+pig
+etl
+data warehousing
+data mining
+statistics
+statistical analysis
+predictive modeling
+regression
+classification
+clustering
+reinforcement learning
+transformers
+bert
+gpt
+llm
+aws
+azure
+google cloud
+gcp
+cloud computing
+docker
+kubernetes
+terraform
+ansible
+jenkins
+ci/cd
+devops
+linux
+unix
+git
+github
+gitlab
+bitbucket
+jira
+confluence
+agile
+scrum
+kanban
+api
+rest api
+graphql
+microservices
+serverless
+lambda
+blockchain
+smart contracts
+solidity
+web3
+cybersecurity
+network security
+penetration testing
+encryption
+firewall
+siem
+vulnerability assessment
+sql server
+mysql
+postgresql
+mongodb
+redis
+cassandra
+elasticsearch
+oracle
+dynamodb
+firebase
+sqlite
+tableau
+power bi
+looker
+grafana
+excel
+google sheets
+sap
+erp
+crm
+salesforce
+servicenow
+selenium
+junit
+pytest
+testng
+automation testing
+manual testing
+qa
+quality assurance
+unit testing
+integration testing
+load testing
+performance testing
+android
+ios
+react native
+flutter
+xamarin
+swift ui
+ui/ux
+figma
+sketch
+adobe xd
+photoshop
+illustrator
+wireframing
+prototyping
+responsive design
+accessibility
+seo
+content management
+wordpress
+embedded systems
+iot
+internet of things
+robotics
+plc
+scada
+autocad
+solidworks
+catia
+ansys
+simulink
+3d modeling
+project management
+product management
+business analysis
+requirements gathering
+stakeholder management
+risk management
+budgeting
+financial analysis
+financial modeling
+accounting
+supply chain management
+logistics
+operations management
+six sigma
+lean manufacturing
+iso 9001
+technical writing
+documentation
+api documentation
+system design
+software architecture
+design patterns
+object oriented programming
+oop
+functional programming
+data structures
+algorithms
+version control
+debugging
+code review
+pair programming
+mentoring
+networking
+tcp/ip
+dns
+http
+https
+load balancing
+cdn
+vpn
+oauth
+jwt
+sso
+active directory
+ldap
+machine learning operations
+mlops
+feature engineering
+model deployment
+a/b testing
+experiment tracking
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+plotly
+jupyter
+pyspark
+dask
+airflow
+luigi
+prefect
+fastapi
+streamlit
+gradio
+huggingface
+langchain
+vector databases
+rag
+prompt engineering
+fine tuning
+transfer learning

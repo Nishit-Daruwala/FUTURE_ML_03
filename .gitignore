@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Large Datasets and Local Processing
+data/raw/UpdatedResumeDataSet.csv
+data/processed/preprocessed_resumes.csv
+
+# Saved Model Weights (Optional: omit if you want to push small models)
+models/*.pkl
+
+# Local logs and output reports
+outputs/app.log
+outputs/evaluation_metrics.json
+outputs/training_report.json
+outputs/classification_report.txt
+outputs/ranking_report_*.txt
+*.log
+
+# Editor/IDE configs
+.vscode/
+.idea/
+.DS_Store

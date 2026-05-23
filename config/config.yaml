@@ -1,0 +1,74 @@
+# ============================================================
+# Resume Screening System — Configuration
+# ============================================================
+# All tuneable parameters for the ML pipeline.
+# Modify values here instead of hardcoding in source files.
+# ============================================================
+
+# --- File Paths ---
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  skills_dir: "data/skills"
+  models_dir: "models"
+  outputs_dir: "outputs"
+  dataset_filename: "UpdatedResumeDataSet.csv"
+
+# --- Preprocessing ---
+preprocessing:
+  min_word_length: 2
+  remove_stopwords: true
+  lemmatize: true
+  lowercase: true
+  extra_stopwords:
+    - "resume"
+    - "curriculum"
+    - "vitae"
+    - "objective"
+    - "reference"
+    - "references"
+    - "available"
+    - "upon"
+    - "request"
+
+# --- TF-IDF Vectorizer ---
+tfidf:
+  max_features: 10000
+  ngram_range: [1, 2]      # unigrams + bigrams
+  min_df: 2                # minimum document frequency
+  max_df: 0.95             # maximum document frequency (ignore very common terms)
+  sublinear_tf: true       # apply sublinear TF scaling (1 + log(tf))
+  norm: "l2"
+
+# --- Classifier ---
+classifier:
+  type: "linear_svc"   # options: "multinomial_nb", "linear_svc", "logistic_regression"
+  test_size: 0.2
+  random_state: 42
+  # SVC-specific params (used if type is "linear_svc")
+  svc_C: 1.0
+  svc_max_iter: 10000
+
+# --- Scoring ---
+scoring:
+  similarity_weight: 0.60
+  skill_match_weight: 0.40
+  # Bonus for category match (0.0 to 0.1)
+  category_match_bonus: 0.05
+
+# --- Skill Extraction ---
+skills:
+  technical_skills_file: "technical_skills.txt"
+  soft_skills_file: "soft_skills.txt"
+  case_sensitive: false
+
+# --- Logging ---
+logging:
+  level: "INFO"            # DEBUG, INFO, WARNING, ERROR
+  log_file: "outputs/app.log"
+  console_output: true
+
+# --- General ---
+general:
+  random_seed: 42
+  verbose: true
