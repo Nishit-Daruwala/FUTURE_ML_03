@@ -1,0 +1,137 @@
+======================================================================
+   RESUME SCREENING — CANDIDATE RANKING REPORT
+======================================================================
+
+Job Description: 
+        UI/UX Web Designer
+
+        We are hiring a creative Web Designer with a strong eye for
+        modern, responsive design.
+
+        Required Skills:
+        - HTML, CSS, JavaScript
+        - 
+
+Required Skills (20): adobe xd, angular, attention to detail, communication, creativity, css, figma, git, html, innovation, javascript, prototyping, react, responsive design, seo, sketch, teamwork, ui/ux, version control, wireframing
+
+----------------------------------------------------------------------
+
+  Rank #1  |  ⚠️  WEAK FIT
+  Candidate: DESIGNER_2
+  Category:  DESIGNER
+  Overall Score:      17.29%
+  Content Relevance:  10.48%
+  Skill Match:        15.00%
+  ✅ Matched Skills:  communication, creativity, teamwork
+  ❌ Missing Skills:  adobe xd, angular, attention to detail, css, figma, git, html, innovation, javascript, prototyping, react, responsive design, seo, sketch, ui/ux, version control, wireframing
+
+  ──────────────────────────────────────────────────
+
+  Rank #2  |  ⚠️  WEAK FIT
+  Candidate: DESIGNER_5
+  Category:  DESIGNER
+  Overall Score:      16.80%
+  Content Relevance:  13.01%
+  Skill Match:        10.00%
+  ✅ Matched Skills:  css, html
+  ❌ Missing Skills:  adobe xd, angular, attention to detail, communication, creativity, figma, git, innovation, javascript, prototyping, react, responsive design, seo, sketch, teamwork, ui/ux, version control, wireframing
+
+  ──────────────────────────────────────────────────
+
+  Rank #3  |  ⚠️  WEAK FIT
+  Candidate: DESIGNER_1
+  Category:  DESIGNER
+  Overall Score:      16.78%
+  Content Relevance:  9.63%
+  Skill Match:        15.00%
+  ✅ Matched Skills:  attention to detail, communication, innovation
+  ❌ Missing Skills:  adobe xd, angular, creativity, css, figma, git, html, javascript, prototyping, react, responsive design, seo, sketch, teamwork, ui/ux, version control, wireframing
+
+  ──────────────────────────────────────────────────
+
+  Rank #4  |  ⚠️  WEAK FIT
+  Candidate: DESIGNER_6
+  Category:  DESIGNER
+  Overall Score:      15.52%
+  Content Relevance:  7.54%
+  Skill Match:        15.00%
+  ✅ Matched Skills:  html, innovation, javascript
+  ❌ Missing Skills:  adobe xd, angular, attention to detail, communication, creativity, css, figma, git, prototyping, react, responsive design, seo, sketch, teamwork, ui/ux, version control, wireframing
+
+  ──────────────────────────────────────────────────
+
+  Rank #5  |  ⚠️  WEAK FIT
+  Candidate: DESIGNER_3
+  Category:  DESIGNER
+  Overall Score:      14.09%
+  Content Relevance:  8.49%
+  Skill Match:        10.00%
+  ✅ Matched Skills:  communication, sketch
+  ❌ Missing Skills:  adobe xd, angular, attention to detail, creativity, css, figma, git, html, innovation, javascript, prototyping, react, responsive design, seo, teamwork, ui/ux, version control, wireframing
+
+  ──────────────────────────────────────────────────
+
+  Rank #6  |  ⚠️  WEAK FIT
+  Candidate: DESIGNER_4
+  Category:  DESIGNER
+  Overall Score:      13.26%
+  Content Relevance:  10.43%
+  Skill Match:        5.00%
+  ✅ Matched Skills:  html
+  ❌ Missing Skills:  adobe xd, angular, attention to detail, communication, creativity, css, figma, git, innovation, javascript, prototyping, react, responsive design, seo, sketch, teamwork, ui/ux, version control, wireframing
+
+  ──────────────────────────────────────────────────
+
+  Rank #7  |  ⚠️  WEAK FIT
+  Candidate: DESIGNER_0
+  Category:  DESIGNER
+  Overall Score:      10.08%
+  Content Relevance:  5.13%
+  Skill Match:        5.00%
+  ✅ Matched Skills:  communication
+  ❌ Missing Skills:  adobe xd, angular, attention to detail, creativity, css, figma, git, html, innovation, javascript, prototyping, react, responsive design, seo, sketch, teamwork, ui/ux, version control, wireframing
+
+  ──────────────────────────────────────────────────
+
+  Rank #8  |  ⚠️  WEAK FIT
+  Candidate: DESIGNER_7
+  Category:  DESIGNER
+  Overall Score:      9.75%
+  Content Relevance:  4.59%
+  Skill Match:        5.00%
+  ✅ Matched Skills:  html
+  ❌ Missing Skills:  adobe xd, angular, attention to detail, communication, creativity, css, figma, git, innovation, javascript, prototyping, react, responsive design, seo, sketch, teamwork, ui/ux, version control, wireframing
+
+  ──────────────────────────────────────────────────
+
+  Rank #9  |  ⚠️  WEAK FIT
+  Candidate: DESIGNER_8
+  Category:  DESIGNER
+  Overall Score:      8.36%
+  Content Relevance:  5.60%
+  Skill Match:        0.00%
+  ❌ Missing Skills:  adobe xd, angular, attention to detail, communication, creativity, css, figma, git, html, innovation, javascript, prototyping, react, responsive design, seo, sketch, teamwork, ui/ux, version control, wireframing
+
+  ──────────────────────────────────────────────────
+
+  Rank #10  |  ⚠️  WEAK FIT
+  Candidate: DESIGNER_9
+  Category:  DESIGNER
+  Overall Score:      7.26%
+  Content Relevance:  3.76%
+  Skill Match:        0.00%
+  ❌ Missing Skills:  adobe xd, angular, attention to detail, communication, creativity, css, figma, git, html, innovation, javascript, prototyping, react, responsive design, seo, sketch, teamwork, ui/ux, version control, wireframing
+
+  ──────────────────────────────────────────────────
+
+----------------------------------------------------------------------
+  SUMMARY
+  Total candidates evaluated: 10
+  Highest score: 17.29%
+  Lowest score:  7.26%
+  Average score: 12.92%
+  Strong fit (≥70%):   0
+  Moderate fit (40-69%): 0
+  Weak fit (<40%):     10
+
+======================================================================

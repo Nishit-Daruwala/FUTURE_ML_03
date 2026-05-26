@@ -1,0 +1,135 @@
+======================================================================
+   RESUME SCREENING — CANDIDATE RANKING REPORT
+======================================================================
+
+Job Description: 
+        Senior Data Scientist
+
+        We are looking for a Senior Data Scientist to join our analytics team.
+        The ideal candidate will have strong expertise in machine learning,
+        stati
+
+Required Skills (26): aws, collaboration, communication, critical thinking, data analysis, data visualization, deep learning, gcp, git, machine learning, matplotlib, natural language processing, numpy, pandas, presentation skills, problem solving, python, pytorch, scikit-learn, seaborn, sql, statistical analysis, tableau, teamwork, tensorflow, version control
+
+----------------------------------------------------------------------
+
+  Rank #1  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_3
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      12.81%
+  Content Relevance:  7.89%
+  Skill Match:        7.69%
+  ✅ Matched Skills:  data analysis, problem solving
+  ❌ Missing Skills:  aws, collaboration, communication, critical thinking, data visualization, deep learning, gcp, git, machine learning, matplotlib, natural language processing, numpy, pandas, presentation skills, python, pytorch, scikit-learn, seaborn, sql, statistical analysis, tableau, teamwork, tensorflow, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #2  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_6
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      12.70%
+  Content Relevance:  5.15%
+  Skill Match:        11.54%
+  ✅ Matched Skills:  collaboration, communication, sql
+  ❌ Missing Skills:  aws, critical thinking, data analysis, data visualization, deep learning, gcp, git, machine learning, matplotlib, natural language processing, numpy, pandas, presentation skills, problem solving, python, pytorch, scikit-learn, seaborn, statistical analysis, tableau, teamwork, tensorflow, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #3  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_8
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      11.16%
+  Content Relevance:  5.14%
+  Skill Match:        7.69%
+  ✅ Matched Skills:  collaboration, problem solving
+  ❌ Missing Skills:  aws, communication, critical thinking, data analysis, data visualization, deep learning, gcp, git, machine learning, matplotlib, natural language processing, numpy, pandas, presentation skills, python, pytorch, scikit-learn, seaborn, sql, statistical analysis, tableau, teamwork, tensorflow, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #4  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_2
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      10.73%
+  Content Relevance:  4.42%
+  Skill Match:        7.69%
+  ✅ Matched Skills:  communication, critical thinking
+  ❌ Missing Skills:  aws, collaboration, data analysis, data visualization, deep learning, gcp, git, machine learning, matplotlib, natural language processing, numpy, pandas, presentation skills, problem solving, python, pytorch, scikit-learn, seaborn, sql, statistical analysis, tableau, teamwork, tensorflow, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #5  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_4
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      10.60%
+  Content Relevance:  4.20%
+  Skill Match:        7.69%
+  ✅ Matched Skills:  communication, data analysis
+  ❌ Missing Skills:  aws, collaboration, critical thinking, data visualization, deep learning, gcp, git, machine learning, matplotlib, natural language processing, numpy, pandas, presentation skills, problem solving, python, pytorch, scikit-learn, seaborn, sql, statistical analysis, tableau, teamwork, tensorflow, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #6  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_5
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      9.70%
+  Content Relevance:  5.27%
+  Skill Match:        3.85%
+  ✅ Matched Skills:  communication
+  ❌ Missing Skills:  aws, collaboration, critical thinking, data analysis, data visualization, deep learning, gcp, git, machine learning, matplotlib, natural language processing, numpy, pandas, presentation skills, problem solving, python, pytorch, scikit-learn, seaborn, sql, statistical analysis, tableau, teamwork, tensorflow, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #7  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_0
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      9.20%
+  Content Relevance:  4.44%
+  Skill Match:        3.85%
+  ✅ Matched Skills:  collaboration
+  ❌ Missing Skills:  aws, communication, critical thinking, data analysis, data visualization, deep learning, gcp, git, machine learning, matplotlib, natural language processing, numpy, pandas, presentation skills, problem solving, python, pytorch, scikit-learn, seaborn, sql, statistical analysis, tableau, teamwork, tensorflow, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #8  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_7
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      8.55%
+  Content Relevance:  3.35%
+  Skill Match:        3.85%
+  ✅ Matched Skills:  sql
+  ❌ Missing Skills:  aws, collaboration, communication, critical thinking, data analysis, data visualization, deep learning, gcp, git, machine learning, matplotlib, natural language processing, numpy, pandas, presentation skills, problem solving, python, pytorch, scikit-learn, seaborn, statistical analysis, tableau, teamwork, tensorflow, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #9  |  ⚠️  WEAK FIT
+  Candidate: DIGITAL-MEDIA_10
+  Category:  DIGITAL-MEDIA
+  Overall Score:      8.39%
+  Content Relevance:  8.86%
+  Skill Match:        7.69%
+  ✅ Matched Skills:  communication, machine learning
+  ❌ Missing Skills:  aws, collaboration, critical thinking, data analysis, data visualization, deep learning, gcp, git, matplotlib, natural language processing, numpy, pandas, presentation skills, problem solving, python, pytorch, scikit-learn, seaborn, sql, statistical analysis, tableau, teamwork, tensorflow, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #10  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_9
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      6.95%
+  Content Relevance:  3.25%
+  Skill Match:        0.00%
+  ❌ Missing Skills:  aws, collaboration, communication, critical thinking, data analysis, data visualization, deep learning, gcp, git, machine learning, matplotlib, natural language processing, numpy, pandas, presentation skills, problem solving, python, pytorch, scikit-learn, seaborn, sql, statistical analysis, tableau, teamwork, tensorflow, version control
+
+  ──────────────────────────────────────────────────
+
+----------------------------------------------------------------------
+  SUMMARY
+  Total candidates evaluated: 10
+  Highest score: 12.81%
+  Lowest score:  6.95%
+  Average score: 10.08%
+  Strong fit (≥70%):   0
+  Moderate fit (40-69%): 0
+  Weak fit (<40%):     10
+
+======================================================================

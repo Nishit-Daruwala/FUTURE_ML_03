@@ -1,0 +1,138 @@
+======================================================================
+   RESUME SCREENING — CANDIDATE RANKING REPORT
+======================================================================
+
+Job Description: 
+        Senior Java Developer
+
+        We need an experienced Java Developer to build scalable
+        enterprise applications.
+
+        Required Skills:
+        - Java programming (Java 11+)
+       
+
+Required Skills (22): agile, api, ci/cd, collaboration, communication, docker, git, java, jenkins, junit, kubernetes, microservices, mongodb, nosql, postgresql, problem solving, rest api, scrum, spring boot, sql, unit testing, version control
+
+----------------------------------------------------------------------
+
+  Rank #1  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_6
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      14.39%
+  Content Relevance:  6.55%
+  Skill Match:        13.64%
+  ✅ Matched Skills:  collaboration, communication, sql
+  ❌ Missing Skills:  agile, api, ci/cd, docker, git, java, jenkins, junit, kubernetes, microservices, mongodb, nosql, postgresql, problem solving, rest api, scrum, spring boot, unit testing, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #2  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_8
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      12.43%
+  Content Relevance:  6.33%
+  Skill Match:        9.09%
+  ✅ Matched Skills:  collaboration, problem solving
+  ❌ Missing Skills:  agile, api, ci/cd, communication, docker, git, java, jenkins, junit, kubernetes, microservices, mongodb, nosql, postgresql, rest api, scrum, spring boot, sql, unit testing, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #3  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_0
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      10.17%
+  Content Relevance:  5.59%
+  Skill Match:        4.55%
+  ✅ Matched Skills:  collaboration
+  ❌ Missing Skills:  agile, api, ci/cd, communication, docker, git, java, jenkins, junit, kubernetes, microservices, mongodb, nosql, postgresql, problem solving, rest api, scrum, spring boot, sql, unit testing, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #4  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_5
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      9.41%
+  Content Relevance:  4.33%
+  Skill Match:        4.55%
+  ✅ Matched Skills:  communication
+  ❌ Missing Skills:  agile, api, ci/cd, collaboration, docker, git, java, jenkins, junit, kubernetes, microservices, mongodb, nosql, postgresql, problem solving, rest api, scrum, spring boot, sql, unit testing, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #5  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_4
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      8.94%
+  Content Relevance:  3.54%
+  Skill Match:        4.55%
+  ✅ Matched Skills:  communication
+  ❌ Missing Skills:  agile, api, ci/cd, collaboration, docker, git, java, jenkins, junit, kubernetes, microservices, mongodb, nosql, postgresql, problem solving, rest api, scrum, spring boot, sql, unit testing, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #6  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_7
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      8.14%
+  Content Relevance:  2.21%
+  Skill Match:        4.55%
+  ✅ Matched Skills:  sql
+  ❌ Missing Skills:  agile, api, ci/cd, collaboration, communication, docker, git, java, jenkins, junit, kubernetes, microservices, mongodb, nosql, postgresql, problem solving, rest api, scrum, spring boot, unit testing, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #7  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_2
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      8.13%
+  Content Relevance:  2.19%
+  Skill Match:        4.55%
+  ✅ Matched Skills:  communication
+  ❌ Missing Skills:  agile, api, ci/cd, collaboration, docker, git, java, jenkins, junit, kubernetes, microservices, mongodb, nosql, postgresql, problem solving, rest api, scrum, spring boot, sql, unit testing, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #8  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_3
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      8.07%
+  Content Relevance:  2.08%
+  Skill Match:        4.55%
+  ✅ Matched Skills:  problem solving
+  ❌ Missing Skills:  agile, api, ci/cd, collaboration, communication, docker, git, java, jenkins, junit, kubernetes, microservices, mongodb, nosql, postgresql, rest api, scrum, spring boot, sql, unit testing, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #9  |  ⚠️  WEAK FIT
+  Candidate: INFORMATION-TECHNOLOGY_1
+  Category:  INFORMATION-TECHNOLOGY
+  Overall Score:      6.51%
+  Content Relevance:  2.51%
+  Skill Match:        0.00%
+  ❌ Missing Skills:  agile, api, ci/cd, collaboration, communication, docker, git, java, jenkins, junit, kubernetes, microservices, mongodb, nosql, postgresql, problem solving, rest api, scrum, spring boot, sql, unit testing, version control
+
+  ──────────────────────────────────────────────────
+
+  Rank #10  |  ⚠️  WEAK FIT
+  Candidate: DIGITAL-MEDIA_10
+  Category:  DIGITAL-MEDIA
+  Overall Score:      6.37%
+  Content Relevance:  4.56%
+  Skill Match:        9.09%
+  ✅ Matched Skills:  agile, communication
+  ❌ Missing Skills:  api, ci/cd, collaboration, docker, git, java, jenkins, junit, kubernetes, microservices, mongodb, nosql, postgresql, problem solving, rest api, scrum, spring boot, sql, unit testing, version control
+
+  ──────────────────────────────────────────────────
+
+----------------------------------------------------------------------
+  SUMMARY
+  Total candidates evaluated: 10
+  Highest score: 14.39%
+  Lowest score:  6.37%
+  Average score: 9.26%
+  Strong fit (≥70%):   0
+  Moderate fit (40-69%): 0
+  Weak fit (<40%):     10
+
+======================================================================

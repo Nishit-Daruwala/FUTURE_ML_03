@@ -1,0 +1,36 @@
+RESUME CATEGORY CLASSIFICATION REPORT
+==================================================
+
+Classifier: linear_svc
+Test Accuracy: 0.7203
+
+                        precision    recall  f1-score   support
+
+            ACCOUNTANT       0.72      0.88      0.79        24
+              ADVOCATE       0.62      0.67      0.64        24
+           AGRICULTURE       0.89      0.62      0.73        13
+               APPAREL       0.54      0.37      0.44        19
+                  ARTS       0.67      0.38      0.48        21
+            AUTOMOBILE       1.00      0.14      0.25         7
+              AVIATION       0.86      0.79      0.83        24
+               BANKING       0.86      0.83      0.84        23
+                   BPO       0.00      0.00      0.00         4
+  BUSINESS-DEVELOPMENT       0.68      0.88      0.76        24
+                  CHEF       0.85      0.71      0.77        24
+          CONSTRUCTION       0.77      0.77      0.77        22
+            CONSULTANT       0.75      0.39      0.51        23
+              DESIGNER       0.86      0.90      0.88        21
+         DIGITAL-MEDIA       0.81      0.68      0.74        19
+           ENGINEERING       0.68      0.79      0.73        24
+               FINANCE       0.86      0.79      0.83        24
+               FITNESS       0.78      0.78      0.78        23
+            HEALTHCARE       0.67      0.70      0.68        23
+                    HR       0.75      0.95      0.84        22
+INFORMATION-TECHNOLOGY       0.75      1.00      0.86        24
+      PUBLIC-RELATIONS       0.59      0.77      0.67        22
+                 SALES       0.46      0.57      0.51        23
+               TEACHER       0.62      0.80      0.70        20
+
+              accuracy                           0.72       497
+             macro avg       0.71      0.67      0.67       497
+          weighted avg       0.73      0.72      0.71       497

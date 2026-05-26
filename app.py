@@ -403,7 +403,7 @@ with tab1:
                             }
                         ))
                         fig.update_layout(height=260, margin=dict(l=10, r=10, t=40, b=10))
-                        st.plotly_chart(fig, use_container_width=True)
+                        st.plotly_chart(fig, width="stretch")
                         
                         # Fit strength card
                         if score >= 0.70:
@@ -580,7 +580,7 @@ with tab2:
                             # Render table without raw values
                             st.dataframe(
                                 df_ranked.drop(columns=["Score_Raw"]),
-                                use_container_width=True,
+                                width="stretch",
                                 hide_index=True
                             )
                             
@@ -613,7 +613,7 @@ with tab2:
                                 height=min(400, 150 + len(batch_files) * 35),
                                 margin=dict(l=10, r=10, t=40, b=10)
                             )
-                            st.plotly_chart(fig_bar, use_container_width=True)
+                            st.plotly_chart(fig_bar, width="stretch")
                             
                         st.markdown("---")
                         # Skill gap analysis
@@ -679,7 +679,7 @@ with tab3:
                     color_discrete_sequence=px.colors.qualitative.Prism
                 )
                 fig_pie.update_layout(margin=dict(l=10, r=10, t=40, b=10))
-                st.plotly_chart(fig_pie, use_container_width=True)
+                st.plotly_chart(fig_pie, width="stretch")
             else:
                 st.info("Preprocessed resume counts chart not available (run train_pipeline.py first).")
         else:

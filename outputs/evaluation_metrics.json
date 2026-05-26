@@ -1,0 +1,259 @@
+{
+  "timestamp": "2026-05-23T19:37:47.977887",
+  "total_resumes_in_dataset": 2483,
+  "sample_screenings": {
+    "Data Science": {
+      "total_screened": 20,
+      "jd_skills": [
+        "aws",
+        "collaboration",
+        "communication",
+        "critical thinking",
+        "data analysis",
+        "data visualization",
+        "deep learning",
+        "gcp",
+        "git",
+        "machine learning",
+        "matplotlib",
+        "natural language processing",
+        "numpy",
+        "pandas",
+        "presentation skills",
+        "problem solving",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "seaborn",
+        "sql",
+        "statistical analysis",
+        "tableau",
+        "teamwork",
+        "tensorflow",
+        "version control"
+      ],
+      "common_skill_gaps": {
+        "aws": 10,
+        "data visualization": 10,
+        "deep learning": 10,
+        "gcp": 10,
+        "git": 10,
+        "matplotlib": 10,
+        "natural language processing": 10,
+        "numpy": 10,
+        "pandas": 10,
+        "presentation skills": 10,
+        "python": 10,
+        "pytorch": 10,
+        "scikit-learn": 10,
+        "seaborn": 10,
+        "statistical analysis": 10,
+        "tableau": 10,
+        "teamwork": 10,
+        "tensorflow": 10,
+        "version control": 10,
+        "critical thinking": 9,
+        "machine learning": 9,
+        "sql": 8,
+        "data analysis": 8,
+        "problem solving": 8,
+        "collaboration": 7,
+        "communication": 5
+      },
+      "top_candidates": [
+        {
+          "candidate_id": "INFORMATION-TECHNOLOGY_3",
+          "rank": 1,
+          "overall_score": 0.12808464127005492,
+          "category": "INFORMATION-TECHNOLOGY"
+        },
+        {
+          "candidate_id": "INFORMATION-TECHNOLOGY_6",
+          "rank": 2,
+          "overall_score": 0.12704630114119897,
+          "category": "INFORMATION-TECHNOLOGY"
+        },
+        {
+          "candidate_id": "INFORMATION-TECHNOLOGY_8",
+          "rank": 3,
+          "overall_score": 0.11160095117880177,
+          "category": "INFORMATION-TECHNOLOGY"
+        },
+        {
+          "candidate_id": "INFORMATION-TECHNOLOGY_2",
+          "rank": 4,
+          "overall_score": 0.10730388796022598,
+          "category": "INFORMATION-TECHNOLOGY"
+        },
+        {
+          "candidate_id": "INFORMATION-TECHNOLOGY_4",
+          "rank": 5,
+          "overall_score": 0.1059951622044878,
+          "category": "INFORMATION-TECHNOLOGY"
+        }
+      ]
+    },
+    "Java Developer": {
+      "total_screened": 20,
+      "jd_skills": [
+        "agile",
+        "api",
+        "ci/cd",
+        "collaboration",
+        "communication",
+        "docker",
+        "git",
+        "java",
+        "jenkins",
+        "junit",
+        "kubernetes",
+        "microservices",
+        "mongodb",
+        "nosql",
+        "postgresql",
+        "problem solving",
+        "rest api",
+        "scrum",
+        "spring boot",
+        "sql",
+        "unit testing",
+        "version control"
+      ],
+      "common_skill_gaps": {
+        "api": 10,
+        "ci/cd": 10,
+        "docker": 10,
+        "git": 10,
+        "java": 10,
+        "jenkins": 10,
+        "junit": 10,
+        "kubernetes": 10,
+        "microservices": 10,
+        "mongodb": 10,
+        "nosql": 10,
+        "postgresql": 10,
+        "rest api": 10,
+        "scrum": 10,
+        "spring boot": 10,
+        "unit testing": 10,
+        "version control": 10,
+        "agile": 9,
+        "problem solving": 8,
+        "sql": 8,
+        "collaboration": 7,
+        "communication": 5
+      },
+      "top_candidates": [
+        {
+          "candidate_id": "INFORMATION-TECHNOLOGY_6",
+          "rank": 1,
+          "overall_score": 0.14385946257385934,
+          "category": "INFORMATION-TECHNOLOGY"
+        },
+        {
+          "candidate_id": "INFORMATION-TECHNOLOGY_8",
+          "rank": 2,
+          "overall_score": 0.12433178907207634,
+          "category": "INFORMATION-TECHNOLOGY"
+        },
+        {
+          "candidate_id": "INFORMATION-TECHNOLOGY_0",
+          "rank": 3,
+          "overall_score": 0.10171498029390184,
+          "category": "INFORMATION-TECHNOLOGY"
+        },
+        {
+          "candidate_id": "INFORMATION-TECHNOLOGY_5",
+          "rank": 4,
+          "overall_score": 0.0941436142298577,
+          "category": "INFORMATION-TECHNOLOGY"
+        },
+        {
+          "candidate_id": "INFORMATION-TECHNOLOGY_4",
+          "rank": 5,
+          "overall_score": 0.08941246043494991,
+          "category": "INFORMATION-TECHNOLOGY"
+        }
+      ]
+    },
+    "Web Designing": {
+      "total_screened": 20,
+      "jd_skills": [
+        "adobe xd",
+        "angular",
+        "attention to detail",
+        "communication",
+        "creativity",
+        "css",
+        "figma",
+        "git",
+        "html",
+        "innovation",
+        "javascript",
+        "prototyping",
+        "react",
+        "responsive design",
+        "seo",
+        "sketch",
+        "teamwork",
+        "ui/ux",
+        "version control",
+        "wireframing"
+      ],
+      "common_skill_gaps": {
+        "adobe xd": 10,
+        "angular": 10,
+        "figma": 10,
+        "git": 10,
+        "prototyping": 10,
+        "react": 10,
+        "responsive design": 10,
+        "seo": 10,
+        "ui/ux": 10,
+        "version control": 10,
+        "wireframing": 10,
+        "attention to detail": 9,
+        "css": 9,
+        "javascript": 9,
+        "sketch": 9,
+        "creativity": 9,
+        "teamwork": 9,
+        "innovation": 8,
+        "html": 6,
+        "communication": 6
+      },
+      "top_candidates": [
+        {
+          "candidate_id": "DESIGNER_2",
+          "rank": 1,
+          "overall_score": 0.17288738239765258,
+          "category": "DESIGNER"
+        },
+        {
+          "candidate_id": "DESIGNER_5",
+          "rank": 2,
+          "overall_score": 0.16803211040057336,
+          "category": "DESIGNER"
+        },
+        {
+          "candidate_id": "DESIGNER_1",
+          "rank": 3,
+          "overall_score": 0.167752049008914,
+          "category": "DESIGNER"
+        },
+        {
+          "candidate_id": "DESIGNER_6",
+          "rank": 4,
+          "overall_score": 0.15522384744142914,
+          "category": "DESIGNER"
+        },
+        {
+          "candidate_id": "DESIGNER_3",
+          "rank": 5,
+          "overall_score": 0.1409245054252129,
+          "category": "DESIGNER"
+        }
+      ]
+    }
+  }
+}
